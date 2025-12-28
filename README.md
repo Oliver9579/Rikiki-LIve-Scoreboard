@@ -1,1 +1,1 @@
-# Rikiki-LIve-Scoreboard
+# Rikiki-Live-Scoreboard
